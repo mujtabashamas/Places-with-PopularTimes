@@ -1,0 +1,5 @@
+id,name,lat,long,categories,full_address,international_phone,rating,place_id,map_location,website
+1,Lola de los Reyes,37.3821362,-5.9993288,"['point_of_interest', 'establishment']","Calle Pureza, 107, 41010 Sevilla, Spain",+34 954 27 75 76,4.4,ChIJswS52RVsEg0RG7-ilN5Fic8,https://maps.google.com/?cid=14954560859939192603,http://www.loladelosreyes.es/
+2,McDonald's,37.4334195,-5.9700122,"['restaurant', 'point_of_interest', 'food', 'establishment']","Parque Empresarial Ciudad de la Imagen Higuerón Sur. C/ Termodinámica, 41015 Sevilla, Spain",+34 955 92 55 73,3.8,ChIJBZpSy29pEg0RMguf7jhYVPU,https://maps.google.com/?cid=17677851438880852786,http://www.mcdonalds.es/
+3,Bananna Food Concept,37.4013373,-5.9939888,"['restaurant', 'point_of_interest', 'food', 'establishment']","Calle Calatrava, 6, 41002 Sevilla, Spain",+34 955 88 78 89,4.1,ChIJ__8cBwhsEg0RVjpkjYLSEyM,https://maps.google.com/?cid=2527595274044717654,http://banannafoodconcept.eltenedor.rest/
+4,Before,37.3956208,-5.9930309,NULL,NULL,NULL,NULL,NULL,NULL,NULL
